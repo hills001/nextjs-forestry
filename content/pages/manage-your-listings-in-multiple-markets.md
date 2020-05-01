@@ -15,5 +15,12 @@ content_blocks:
     transactions across multiple jurisdictions\n​​"
   block_type: section
   main_image: ''
+- template: block
+  block_type: promo
+  main_image: "/uploads/xsettle-outsystems.jpg"
+  content: Based in strategic jurisdictions across the globe, our experts in regulatory
+    and market initiatives, cross-border solutions and global stock movements can
+    help you achieve your short and long term international corporate objectives.
+  title: ''
 
 ---
