@@ -20,3 +20,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/pages/manage-your-listings-in-multiple-markets.md
