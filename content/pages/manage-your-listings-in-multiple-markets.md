@@ -22,5 +22,12 @@ content_blocks:
     and market initiatives, cross-border solutions and global stock movements can
     help you achieve your short and long term international corporate objectives.
   title: ''
+- template: block
+  block_type: section
+  title: Creating cross-border solutions for your business
+  content: No transaction is the same, so you need the best guidance and support when
+    designing and implementing the most suitable cross-border solution for your company.
+    ​​
+  main_image: ''
 
 ---
