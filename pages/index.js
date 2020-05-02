@@ -1,6 +1,15 @@
 import Head from 'next/head'
+import { getSortedPagesData } from '../lib/pages'
 
-export default function Home() {
+export async function getStaticProps() {
+  const allPagesData = getSortedPagesData()
+  return {
+    props: {
+      allPagesData
+    }
+  }
+}
+export default function Home({ allPagesData }) {
   return (
     <div className="container">
       <Head>
@@ -46,6 +55,19 @@ export default function Home() {
             </p>
           </a>
         </div>
+
+
+        <section>
+          <h2>Pages</h2>
+          <ul>
+            {allPagesData.map(({ id, date, title }) => (
+              <li key={id}>
+                {title}
+              </li>
+            ))}
+          </ul>
+        </section>
+
       </main>
 
       <footer>
