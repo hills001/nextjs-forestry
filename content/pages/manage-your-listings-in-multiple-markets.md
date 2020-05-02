@@ -17,5 +17,15 @@ content_blocks:
   heading: Depositary interests
   content: Overcome cross-border barriers to reach new capital
   background_image: "/xsettle-outsystems.jpg"
+- template: horizontal-group
+  blocks:
+  - template: block
+    main_image: "/GettyImages-175381574.jpg"
+    title: Global stock movements
+    content: |-
+      An established global network of controls and connections gives institutional and retail investors the certainty to rapidly reposition securities between markets.
+
+      A dedicated group of operations personnel use this unique in-house system, to receive, execute and balance cross-border security movements all within 24 hours. Accessing international settlement and liquidity pools has never been easier.
+    block_type: ''
 
 ---
