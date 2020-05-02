@@ -11,11 +11,6 @@ sections:
   match: "**/*"
   templates:
   - page
-- type: directory
-  path: content/images
-  label: Images
-  create: all
-  match: "**/*"
 upload_dir: public
 public_path: "/public"
 front_matter_path: ''
