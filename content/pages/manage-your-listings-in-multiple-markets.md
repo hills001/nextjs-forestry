@@ -27,5 +27,13 @@ content_blocks:
 
       A dedicated group of operations personnel use this unique in-house system, to receive, execute and balance cross-border security movements all within 24 hours. Accessing international settlement and liquidity pools has never been easier.
     block_type: ''
+  - template: block
+    main_image: "/GettyImages-134574882.jpg"
+    title: Cross-border solutions
+    content: |-
+      To make the execution of your cross-border transactions as easy as possible, we devise sophisticated solutions with step-by-step action plans to help you navigate the demanding planning and implementation process.
+
+      The types of transactions we can support include: cross-border capital raisings, re-incorporation transactions, M&A deals, branch registers, dual company structures, Depositary Interests, overseas dividend payments and withholding tax reporting.
+    block_type: ''
 
 ---
