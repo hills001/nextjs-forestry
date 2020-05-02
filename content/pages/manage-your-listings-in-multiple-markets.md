@@ -14,7 +14,7 @@ content_blocks:
     from effective and compliant company structures \neffectively manage corporate
     transactions across multiple jurisdictions\n​​"
   block_type: section
-  main_image: ''
+  main_image: "/xsettle-outsystems.jpg"
 - template: block
   block_type: promo
   main_image: "/uploads/xsettle-outsystems.jpg"
