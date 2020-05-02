@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { getSortedPagesData } from '../lib/pages'
+import Link from 'next/link'
 
 export async function getStaticProps() {
   const allPagesData = getSortedPagesData()
@@ -62,7 +63,9 @@ export default function Home({ allPagesData }) {
           <ul>
             {allPagesData.map(({ id, date, title }) => (
               <li key={id}>
+                <Link href="[id]" as={`/${id}`}>
                 {title}
+                </Link>
               </li>
             ))}
           </ul>
@@ -70,16 +73,7 @@ export default function Home({ allPagesData }) {
 
       </main>
 
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
-        </a>
-      </footer>
+
 
       <style jsx>{`
         .container {
