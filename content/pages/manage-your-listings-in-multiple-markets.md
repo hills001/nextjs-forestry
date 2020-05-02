@@ -35,5 +35,14 @@ content_blocks:
 
       The types of transactions we can support include: cross-border capital raisings, re-incorporation transactions, M&A deals, branch registers, dual company structures, Depositary Interests, overseas dividend payments and withholding tax reporting.
     block_type: ''
+  - template: block
+    title: Regulatory and market initiatives
+    content: Our experienced team of international market experts develop, share and
+      implement appropriate strategies to capitalise on, initiate or respond to global
+      regulatory and market developments which impact issuers, investors and markets.
+      In particular, we focus on those impacting trading and settlement, transparency
+      of share ownership, proxy voting and corporate actions.
+    main_image: "/GettyImages-555799109.jpg"
+    block_type: ''
 
 ---
