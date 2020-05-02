@@ -17,7 +17,7 @@ content_blocks:
   main_image: "/xsettle-outsystems.jpg"
 - template: block
   block_type: promo
-  main_image: "/uploads/xsettle-outsystems.jpg"
+  main_image: "/GettyImages-175381574.jpg"
   content: Based in strategic jurisdictions across the globe, our experts in regulatory
     and market initiatives, cross-border solutions and global stock movements can
     help you achieve your short and long term international corporate objectives.
