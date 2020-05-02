@@ -2,21 +2,6 @@
 label: Block
 hide_body: true
 fields:
-- name: block_type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - promo
-    - card
-    - section
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Block type
 - name: main_image
   type: file
   config:
