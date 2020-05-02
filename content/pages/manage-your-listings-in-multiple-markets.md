@@ -1,6 +1,6 @@
 ---
 title: Manage your listings in multiple markets
-banner_image: "/uploads/header-1.jpg"
+banner_image: "/header-1.jpg"
 content_blocks:
 - template: block
   title: Solutions that connect you and your investors to global markets
