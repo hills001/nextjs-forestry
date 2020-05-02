@@ -13,5 +13,9 @@ content_blocks:
     that can stifle cross-border business \n* allow companies and investors to benefit
     from effective and compliant company structures \n* effectively manage corporate
     transactions across multiple jurisdictions"
+- template: promo
+  heading: Depositary interests
+  content: Overcome cross-border barriers to reach new capital
+  background_image: "/xsettle-outsystems.jpg"
 
 ---
