@@ -16,7 +16,9 @@ fields:
   type: blocks
   label: Content blocks
   template_types:
-  - block
+  - content-section
+  - promo
+  - horizontal-group
   config:
     min: 
     max: 
