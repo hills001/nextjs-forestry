@@ -6,5 +6,7 @@ content_blocks:
   content: Managing your time and your board responsibilities is no easy task. Computershare’s
     board portal, BoardWorks, helps you work more effectively via an intuitive app.​
   heading: ''
+- template: reusable-content
+  select_content: content/reusable/Our global locations.md
 
 ---
