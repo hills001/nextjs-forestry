@@ -12,9 +12,8 @@ sections:
   templates:
   - page
 - type: document
-  path: content/reusable-blocks
+  path: content/reusable-blocks/**/*
   label: Reusable blocks
-  match: "**/*"
 upload_dir: public
 public_path: ''
 front_matter_path: ''
