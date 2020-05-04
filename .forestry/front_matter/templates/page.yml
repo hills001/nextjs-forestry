@@ -19,6 +19,7 @@ fields:
   - content-section
   - promo
   - horizontal-group
+  - reusable-content
   config:
     min: 
     max: 
