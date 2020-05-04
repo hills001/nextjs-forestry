@@ -1,4 +1,16 @@
 ---
 label: Reusable content
 hide_body: true
-fields: []
+fields:
+- name: select_content
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Select content
