@@ -10,7 +10,7 @@ fields:
     options: []
     source:
       type: pages
-      section: pages
+      section: reusable-content
       file: 
       path: 
   label: Select content
