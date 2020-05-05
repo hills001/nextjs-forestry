@@ -2,10 +2,6 @@
 title: Manage your listings in multiple markets
 banner_image: "/header-1.jpg"
 content_blocks:
-- template: promo
-  heading: Depositary interests
-  content: Overcome cross-border barriers to reach new capital
-  background_image: "/xsettle-outsystems.jpg"
 - template: content-section
   heading: Solutions that connect you and your investors to global markets
   content: "Executing global corporate transactions means navigating a regional maze
@@ -17,6 +13,10 @@ content_blocks:
     that can stifle cross-border business \n* allow companies and investors to benefit
     from effective and compliant company structures \n* effectively manage corporate
     transactions across multiple jurisdictions"
+- template: promo
+  heading: Depositary interests
+  content: Overcome cross-border barriers to reach new capital
+  background_image: "/xsettle-outsystems.jpg"
 - template: horizontal-group
   blocks:
   - template: block
